@@ -50,13 +50,3 @@ Antes das questões, veja **[00_preparacao_e_dicionario.md](simulado/00_preparac
 
 Este material é para estudo e consulta, e o professor autorizou consultar o repositório na prova. Confirme com ele o que exatamente pode ser aberto e copiado. Os textos das respostas são **modelos**: na prova, escreva com as suas palavras e com os números da sua saída.
 
-## Como subir este material no seu GitHub
-
-1. Descompacte o arquivo `.zip` no computador.
-2. Entre em github.com com a sua conta e clique em **New repository** (botão verde ou o `+` no canto superior).
-3. Nome sugerido: `python-analise-dados-prova` (sem acentos nem espaços). Marque **Public** (assim você acessa na prova sem complicação de login) e clique em **Create repository**.
-4. Na página do repositório novo, clique em **uploading an existing file**.
-5. Arraste para a página **o conteúdo da pasta** (o `README.md` e as pastas `guias` e `simulado`). Se o navegador não aceitar pastas, envie os arquivos de cada pasta separadamente. O GitHub aceita arrastar pastas na maioria dos navegadores atuais.
-6. Escreva uma mensagem curta (por exemplo, "Material de estudo") e clique em **Commit changes**.
-7. Copie o link do repositório e **teste abrindo em outra aba**. Salve o link em um lugar fácil (favoritos e bloco de notas).
-8. Nos blocos de código, o GitHub mostra um botão de **copiar** no canto superior direito.
